@@ -1,54 +1,26 @@
-Contact
-mananmishra2004@gmail.com
-www.linkedin.com/in/mananmishra2004 (LinkedIn)
-Top Skills
-Mongoose ODM
-JSON Web Token (JWT)
-Cookies
-Manan Mishra
-Backend Developer | Full Stack Developer | Software Developer
-Java | Node.js | React | SQL | MongoDB | Python
-Ajmer, Rajasthan, India
-Summary
-I’m a B.Tech IT student and a passionate Backend & Full Stack
-Developer who loves building scalable applications, clean APIs, and
-user-focused digital experiences. I enjoy solving real-world problems
-through software and continuously improving my technical depth.
-Technical Expertise:
-Java, JavaScript, Python, C, C++, Node.js, Express.js, React, SQL,
-MongoDB, REST APIs, Git, Linux, Shell Scripting
-What I Enjoy Working On:
-• Backend development & API design
-• Full stack web applications
-• Problem-solving and system optimization
-• Building real-time and AI-integrated solutions
-Key Projects:
-• AI-Based Potato Disease Detection System: Built using CNN,
-TensorFlow, Flask, OpenCV, deployed on Firebase + Google Cloud
-with Docker
-• Weather Application: Designed and developed a responsive
-weather-tracking web app using HTML, CSS, JavaScript, and API
-integration
-I am constantly exploring new tools, improving my backend skills,
-and strengthening my DSA fundamentals to become a better
-engineer every day.
-Open to Opportunities:
-Backend Developer | Full Stack Developer | Software Developer
-roles
-Let’s connect—I’m always eager to learn, collaborate, and contribute
-to impactful projects.
-Page 1 of 2
-Experience
-Cognifyz Technologies
-Web Development Intern
-May 2024 - June 2024 (2 months)
-INTERNSAVY
-Frontend Web Developer
-June 2023 - July 2023 (2 months)
-Education
-Government Engineering College, Ajmer
-Bachelor of Technology - BTech, Information Technology · (October
-2022 - October 2026)
-MAHARAJA AGRASEN PUB SCH NR PATEL STADIUM AJMER
-12, Science maths · (2021 - 2022)
-Page 2 of 2
+<h1>Hi 👋, I'm  Manan Mishra</h1>
+<p>Full-Stack Developer (MERN) | REST APIs</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://x.com/https://x.com/manan4816" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/manan-mishra2004" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
